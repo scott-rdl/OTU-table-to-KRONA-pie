@@ -9,7 +9,7 @@ This bash script is used to generate a one page KRONA pie html file from a rarif
 
  ```
 # Constructed from biom file
-#OTU ID	TB21	TB28	TB22	TB29	TB30	TB23	taxonomy
+#OTU ID A	B	C	D	E	F	taxonomy
 denovo7708	2.0	0.0	0.0	0.0	0.0	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales; Legionellaceae; Legionella; uncultured bacterium
 denovo3059	0.0	3.0	1.0	0.0	0.0	0.0	Bacteria; Bacteroidetes; Cytophagia; Cytophagales; Cytophagaceae; uncultured; uncultured bacterium
 denovo3058	0.0	13.0	0.0	15.0	30.0	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales
